@@ -1,0 +1,14 @@
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\bin\Debug\net6.0\Animal Class task.exe
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\bin\Debug\net6.0\Animal Class task.deps.json
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\bin\Debug\net6.0\Animal Class task.runtimeconfig.json
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\bin\Debug\net6.0\Animal Class task.dll
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\bin\Debug\net6.0\Animal Class task.pdb
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\obj\Debug\net6.0\Animal Class task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\obj\Debug\net6.0\Animal Class task.AssemblyInfoInputs.cache
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\obj\Debug\net6.0\Animal Class task.AssemblyInfo.cs
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\obj\Debug\net6.0\Animal Class task.csproj.CoreCompileInputs.cache
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\obj\Debug\net6.0\Animal Class task.dll
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\obj\Debug\net6.0\refint\Animal Class task.dll
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\obj\Debug\net6.0\Animal Class task.pdb
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\obj\Debug\net6.0\Animal Class task.genruntimeconfig.cache
+C:\Users\Heydar\Desktop\Animal Class task\Animal Class task\obj\Debug\net6.0\ref\Animal Class task.dll
